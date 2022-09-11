@@ -12,10 +12,10 @@
 # in the templates via {{ site.myvariable }}.
 
 #theme: jekyll-agency
-remote_theme: raviriley/agency-jekyll-theme
+remote_theme: bstlaurentnz/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Agency Jekyll Theme Demo
 email      : your-email@example.com #this is also the email contact forms will go to
@@ -27,8 +27,8 @@ author     : Your Name
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
-analytics:
-  google: #Google Analytics tracking code here
+# analytics:
+#   google: #Google Analytics tracking code here
 
 collections:
   portfolio:
