@@ -14,7 +14,7 @@ As a child I remember making giant bubbles at my grandma’s house in the summer
 
 Welcome to Little Ben's Big Bubbles:
 
-As child I remember making giant bubbles at my grandma’s house in the summer. She had collected labels for months to mail away for a special bubble wand. When I became a mom I wanted to replicate the same thrill and joy of those big bubbles with my little boy. As a teacher, I also strive to turn play activities into learning opportunities (for a story on using wands with children with autism click here). Once I made my first wands and solution and began to use it, people began to ask where I bought it? How could they get some? Thus began Little Ben’s Big Bubbles
+As child I remember making giant bubbles at my grandma’s house in the summer. She had collected labels for months to mail away for a special bubble wand. When I became a mom I wanted to replicate the same thrill and joy of those big bubbles with my little boy. As a teacher, I also strive to turn play activities into learning opportunities (for a story on using wands with children with autism click here). Once I made my first wands and solution and began to use it, people began to ask where I bought it? How could they get some? Thus began Little Ben’s Big Bubbles.
 
 Big bubble solution and bubble wands
 Made for little people, and big people too.
